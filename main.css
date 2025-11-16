@@ -155,12 +155,12 @@ body {
 
 .main {
   max-width: 1000px;
-  margin: auto;
+  margin: auto; 
 }
 
 h1 {
   font-size: 50px;
-  word-break: break-all;
+  word-break: break-all; 
 }
 
 .row {
@@ -223,7 +223,7 @@ h1 {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 17px;  
 }
 
 .topnav a:hover {
