@@ -4,6 +4,7 @@ body{
    background-color:rgb(255, 166, 188);
 }   
 
+
 header{ 
     font-family: Jolly Lodger, sans-serif;
 }
@@ -139,8 +140,6 @@ h1{
 .demo:hover {
   opacity: 1;
 } 
-
-
 
 
  
