@@ -1,2 +1,3 @@
-# cryptid.strawberryfinal
-Final Project Website for IMED1316
+# cryptid.strawberryfinal 
+My portofilo website 
+(Final Project Website for IMED1316)
