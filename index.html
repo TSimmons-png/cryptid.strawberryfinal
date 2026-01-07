@@ -21,7 +21,9 @@
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
-</div> 
+</div>  
+
+
  
 <div class="container">
 
@@ -92,6 +94,18 @@
   <span class="dot"></span> 
   <span class="dot"></span> 
 </div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
 
 <script>
 let slideIndex = 1;
